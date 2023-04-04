@@ -1,4 +1,4 @@
-# mongoDB-node-express
+# MongoDB-Node.js-Express.js
 
 Building a RESTful API and web app.
 

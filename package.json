@@ -1,0 +1,21 @@
+{
+  "name": "mongodb_nodejs_express",
+  "version": "1.0.0",
+  "description": "Building a RESTful API and web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jipsonminibhavan/mongoDB-node-express.git"
+  },
+  "keywords": [],
+  "author": "Jipson Minibhavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jipsonminibhavan/mongoDB-node-express/issues"
+  },
+  "homepage": "https://github.com/jipsonminibhavan/mongoDB-node-express#readme"
+}

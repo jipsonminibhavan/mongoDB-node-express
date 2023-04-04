@@ -19,7 +19,10 @@ Node.js ist ein Single-Threaded Server bestehend aus den folgenden wichtigen Kom
   die mit JavaScript direkt nicht möglich wären
 
 Node.js- Module werden über den Node.js Package Manager(NPM) verwaltet.
-Bei Express.js handelt es sich um ein Webframework. Es lässt sich durch Middleware-Packages
-modular um zusätzliche Funktionalitäten erweitern.
+
+Bei Express.js handelt es sich um ein Webframework.
+
+Es lässt sich durch Middleware-Packages modular um zusätzliche Funktionalitäten erweitern.
+
 Über mongodb lässt sich aud die MongoDB-Datenbank (NoSQL-Datnebank) zugreifen, welche die Dokumente
 im JSON-Format speichert.

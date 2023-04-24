@@ -6,7 +6,12 @@ class Sales extends EventEmitter {
     super();
   }
 }
+/*Dieser Mechanismus, das Erweitern der EventEmitter-Klasse ist die Art und
 
+Weise, wie die verschiedenen Nodemodule, wie HTTP, Filesystem und viele
+
+andere Nodecoremodule Ereignisse intern implementieren
+*/
 const myEmitter = new Sales();
 
 myEmitter.on("newSale", () => {
